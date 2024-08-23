@@ -1,3 +1,5 @@
+// Este projeto foi desenvolvido com base no tutorial "Build a Stopwatch using React" de Bro Code no YouTube. 
+
 import React, {useState, useEffect, useRef} from 'react';
 
 function Stopwatch(){
